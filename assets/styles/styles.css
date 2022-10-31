@@ -6,12 +6,13 @@ body{
     background-color: black;
 
 }
-.banner{
-    height: auto;
-    width: 100vw;
-}
+
 .logo{
-    width: 300px;
+    width: 200px;
+    height: auto;
+}
+.container-media{
+    width: 100vw;
     height: auto;
 }
 .media{
